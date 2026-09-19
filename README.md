@@ -2,6 +2,10 @@
 
 A simple and responsive weather application built using HTML, JavaScript, Tailwind CSS, and the OpenWeather API.
 
+## 🔗 Live Demo
+
+[View Live Weather App](https://jainsysoni.github.io/Weather-App/)
+
 ## 🚀 Features
 
 - Search weather by city name
